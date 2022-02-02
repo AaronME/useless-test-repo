@@ -1,10 +1,8 @@
 ---
-name: Incident Report
-about: Descriptive name of issue
-title: ''
+name: Incident Response
+about: Issue to track responding an incident
+title: '[DATE]-NameOfAlert
 labels: incident
-assignees: ''
-
 ---
 
 
